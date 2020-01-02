@@ -23,5 +23,5 @@ def reduce(source_array, starting_point = nil)
     result = result + source_array[x]
     x += 1
   end
-  total
+  result
 end
